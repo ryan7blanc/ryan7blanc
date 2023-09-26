@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ryan7blanc
 - 👀 I’m interested in coding!
 - 🌱 I’m currently learning Computer Science!
-- 💞️ I’m looking to collaborate on CSCI1000 Projects!
+- 💞️ I’m looking to collaborate on Websites and Individual Projects in C++ or Python!
 - 📫 How to reach me: lobl1307@colorado.edu
 
 <!---
